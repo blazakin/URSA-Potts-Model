@@ -2,6 +2,9 @@
 
 Code created to implement the Metropolis algorithm for a four substance Potts model. More information on the research at [https://www.felsch.io/SPS24](https://www.felsch.io/SPS24)
 
+This code is created for MATLAB R2024a. [Potts_Batch_Runner.m](https://github.com/blazakin/URSA-Potts-Model/edit/main/Potts_Batch_Runner.m) is the main file to run simulations from.
+
+
 This is based of the work of Peszynska et al. (2021) and the code is modified from Shonkwiler and
 Mendivil (2009).
 
