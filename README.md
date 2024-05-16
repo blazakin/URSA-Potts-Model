@@ -7,6 +7,9 @@ Mendivil (2009).
 
 The data used is not included in this repository, it comes from Peszynska et al. (2021), Peszynska et al. (2024), and Calmels et al. (2010).
 
+
+## Sources:
+
 Calmels, Fabrice, Wendy Clavano, and Duane Froese. 2010. Progress on x-ray computed
   tomography (ct) scanning in permafrost studies. In Proceedings of the 5th Canadian Conference On
   Permafrost 1353–1358.
